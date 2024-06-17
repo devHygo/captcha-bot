@@ -1,12 +1,4 @@
-/*
 
-===
-🌠 Originalmente feito para o bot Buyzil#6524 (1132724441466536017)
-=====
-☣ By Infinite Community & joaokristani#0000 (https://discord.gg/infinite-community-1014921352500756500)
-========
-
-*/
 
 
 import { Client, GatewayIntentBits, AttachmentBuilder } from 'discord.js';
