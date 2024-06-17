@@ -1,13 +1,13 @@
 {
 	"name": "verify",
 	"version": "1.0",
-	"description": "Verify - Infinite community",
+	"description": "Verify - CDK",
 	"main": "src/index",
 	"scripts": {
 		"start": "tsx src/index"
 	},
 	"keywords": [],
-	"author": "joaokristani",
+	"author": "hygo",
 	"license": "ISC",
         "dependencies": {
             "@types/node": "^20.9.0",
